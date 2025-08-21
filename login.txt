@@ -1,3 +1,12 @@
 Login feature started
 Line from master branch
+<<<<<<< HEAD
 Change from master branch
+=======
+Change from feature branch
+>>>>>>> a016a58 (feature-login: conflicting change in login.txt)
+
+
+
+Change in text editor from master branch
+Change in text editor from feature branch
